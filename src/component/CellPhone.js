@@ -1,7 +1,5 @@
 import React from 'react'
 import {Image, Text, TouchableOpacity, View} from 'react-native';
-import Foundation from 'react-native-vector-icons/Foundation';
-import Color from '../Constant/Color';
 import {useNavigation} from '@react-navigation/native'
 
 const CellPhone = (props) => {
